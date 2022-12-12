@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=Anvei&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anvei&layout=compact&exclude_repo=lifegpc.github.io,libbluray-MSVC,libudfread-MSVC,xavs-MSVC,lzip-MSVC,bzip2-MSVC,ogg-acm-codec-cmake&hide=lua,Batchfile&langs_count=10&show_icons=true&theme=radical) ](https://github.com/Anvei)
